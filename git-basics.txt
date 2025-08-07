@@ -1,0 +1,16 @@
+GitHub Basics
+
+git clone = copy 
+
+git branch -r = to check how many branch it has?
+
+git push = sending changes to remote
+
+git push = getting or fetching changes from remote
+
+git checkout =+ switching to another branch
+
+Insert-Add-commit-Push
+status-Add-commit-pull
+
+
