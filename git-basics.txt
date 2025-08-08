@@ -1,6 +1,6 @@
 GitHub Basics
 
-git clone = copy 
+git clone = copying the git remote repo
 
 git branch -r = to check how many branch it has?
 
